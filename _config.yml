@@ -26,7 +26,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - CTGB: "http://www.hsr.it/research/organization/divisions-centers/center-for-translational-genomics-and-bioinformatics/"
-    - ORCID: "orcid.org/0000-0003-0384-3700"
+    - ORCID: "http://orcid.org/0000-0003-0384-3700"
   Publications: "publications"
   
   
