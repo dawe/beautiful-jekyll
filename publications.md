@@ -1,6 +1,6 @@
 ---
 layout: page
-title: publications
+title: Publications
 subtitle: An updated list of publications
 ---
 
