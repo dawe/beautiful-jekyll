@@ -4,6 +4,7 @@ layout: page
 
 ## Publications
 
+---------
 
 * Bonfiglio S, Vanni I, Rossella V, Truini A, Lazarevic D, Dal Bello MG, Alama A, Mora M, Rijavec E, Genova C, **Cittaro D**, Grossi F, Coco S — Performance comparison of two commercial human whole-exome capture systems on formalin-fixed paraffin-embedded lung adenocarcinoma samples. _BMC Cancer._ 2016 Aug 30;16:692. doi: 10.1186/s12885-016-2720-4.
 * Nucera S, Giustacchini A, Boccalatte F, Calabria A, Fanciullo C, Plati T, Ranghetti A, Garcia-Manteiga J, **Cittaro D**, Benedicenti F, Lechman ER, Dick JE, Ponzoni M, Ciceri F, Montini E, Gentner B, Naldini L — miRNA-126 Orchestrates an Oncogenic Program in B Cell Precursor Acute Lymphoblastic Leukemia. _Cancer Cell._ 2016 Jun 13;29(6):905-921. doi: 10.1016/j.ccell.2016.05.007.
