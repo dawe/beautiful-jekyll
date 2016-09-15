@@ -4,6 +4,6 @@ layout: page
 
 ## About me
 
- Something will appear here, sooner or later.
+My name is Davide Cittaro, PhD. Through the last >10 years I've been working on several (and assorted) projects involving computational analysis of biological data, basically everything with a _-omics_ suffix (except for metabolomics... Next in line?).
 
-$$\sigma_X^2 = \frac{1}{m}\sum_{i=1}^m (x_i-\mu_X)^2 \mbox{ and } \sigma_Y^2 = \frac{1}{n} \sum_{i=1}^n (y_i-\mu_Y)^2$$
+
