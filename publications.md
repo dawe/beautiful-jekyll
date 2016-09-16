@@ -8,7 +8,7 @@ This is a non complete list of publications. I only reported the ones I contribu
 
 ---------
 
-* **Cittaro D**, Lampis V, Luchetti A, Coccurello R, Guffanti A, Felsani A, Moles A, Stupka E, D' Amato FR, Battaglia M - Histone Modifications in a Mouse Model of Early Adversities and Panic Disorder: Role for Asic1 and Neurodevelopmental Genes. _Sci Rep._ 2016 Apr 28;6:25131. doi: 10.1038/srep25131.
+* **Cittaro D**, Lampis V, Luchetti A, Coccurello R, Guffanti A, Felsani A, Moles A, Stupka E, D' Amato FR, Battaglia M - **_Histone Modifications in a Mouse Model of Early Adversities and Panic Disorder: Role for Asic1 and Neurodevelopmental Genes._** Sci Rep. 2016 Apr 28;6:25131. doi: 10.1038/srep25131.
 * Riba M, Garcia Manteiga JM, Bošnjak B, **Cittaro D**, Mikolka P, Le C, Epstein MM, Stupka E - Revealing the acute asthma ignorome: characterization and validation of uninvestigated gene networks. _Sci Rep._ 2016 Apr 21;6:24647. doi: 10.1038/srep24647.
 * **Cittaro D**, Lazarevic D, Provero P - Chromas from chromatin: sonification of the epigenome. _F1000Res._ 2016 Mar 3;5:274. doi: 10.12688/f1000research.8001.1. eCollection 2016.
 * Rondinelli B, Rosano D, Antonini E, Frenquelli M, Montanini L, Huang D, Segalla S, Yoshihara K, Amin SB, Lazarevic D, The BT, Verhaak RG, Futreal PA, Di Croce L, Chin L, **Cittaro D**, Tonon G. - Histone demethylase JARID1C inactivation triggers genomic instability in sporadic renal cancer. _J Clin Invest._ 2015 Nov 9. pii: 81040.
