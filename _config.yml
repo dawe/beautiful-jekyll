@@ -25,7 +25,7 @@ description: Find here my adventures in computational biology
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - CTGB: "http://www.hsr.it/research/organization/divisions-centers/center-for-translational-genomics-and-bioinformatics/"
+    - COSR: "https://research.hsr.it/en/centers/omics-sciences.html"
     - ORCID Profile: "http://orcid.org/0000-0003-0384-3700"
     - Scholar Profile: "https://scholar.google.com/citations?user=F9THN9UAAAAJ"
   Publications: "publications"
